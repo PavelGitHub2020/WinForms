@@ -1,0 +1,11 @@
+B:\учебный проект\для примеров\WinFormsApplication\Razbor\Lesson2\bin\Debug\Lesson2.exe.config
+B:\учебный проект\для примеров\WinFormsApplication\Razbor\Lesson2\bin\Debug\Lesson2.exe
+B:\учебный проект\для примеров\WinFormsApplication\Razbor\Lesson2\bin\Debug\Lesson2.pdb
+B:\учебный проект\для примеров\WinFormsApplication\Razbor\Lesson2\obj\Debug\Lesson2.csprojAssemblyReference.cache
+B:\учебный проект\для примеров\WinFormsApplication\Razbor\Lesson2\obj\Debug\Lesson2.Form1.resources
+B:\учебный проект\для примеров\WinFormsApplication\Razbor\Lesson2\obj\Debug\Lesson2.Form2.resources
+B:\учебный проект\для примеров\WinFormsApplication\Razbor\Lesson2\obj\Debug\Lesson2.Properties.Resources.resources
+B:\учебный проект\для примеров\WinFormsApplication\Razbor\Lesson2\obj\Debug\Lesson2.csproj.GenerateResource.cache
+B:\учебный проект\для примеров\WinFormsApplication\Razbor\Lesson2\obj\Debug\Lesson2.csproj.CoreCompileInputs.cache
+B:\учебный проект\для примеров\WinFormsApplication\Razbor\Lesson2\obj\Debug\Lesson2.exe
+B:\учебный проект\для примеров\WinFormsApplication\Razbor\Lesson2\obj\Debug\Lesson2.pdb

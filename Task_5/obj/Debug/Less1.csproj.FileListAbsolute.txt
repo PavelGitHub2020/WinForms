@@ -1,0 +1,10 @@
+B:\учебный проект\для примеров\WinFormsApplication\WindowsFormsApplication5\Less1\bin\Debug\Less1.exe.config
+B:\учебный проект\для примеров\WinFormsApplication\WindowsFormsApplication5\Less1\bin\Debug\Less1.exe
+B:\учебный проект\для примеров\WinFormsApplication\WindowsFormsApplication5\Less1\bin\Debug\Less1.pdb
+B:\учебный проект\для примеров\WinFormsApplication\WindowsFormsApplication5\Less1\obj\Debug\Less1.csprojAssemblyReference.cache
+B:\учебный проект\для примеров\WinFormsApplication\WindowsFormsApplication5\Less1\obj\Debug\Less1.Form1.resources
+B:\учебный проект\для примеров\WinFormsApplication\WindowsFormsApplication5\Less1\obj\Debug\Less1.Properties.Resources.resources
+B:\учебный проект\для примеров\WinFormsApplication\WindowsFormsApplication5\Less1\obj\Debug\Less1.csproj.GenerateResource.cache
+B:\учебный проект\для примеров\WinFormsApplication\WindowsFormsApplication5\Less1\obj\Debug\Less1.csproj.CoreCompileInputs.cache
+B:\учебный проект\для примеров\WinFormsApplication\WindowsFormsApplication5\Less1\obj\Debug\Less1.exe
+B:\учебный проект\для примеров\WinFormsApplication\WindowsFormsApplication5\Less1\obj\Debug\Less1.pdb

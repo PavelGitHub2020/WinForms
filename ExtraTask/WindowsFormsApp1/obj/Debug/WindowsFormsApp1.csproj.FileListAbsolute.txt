@@ -1,0 +1,20 @@
+B:\учебный проект\для примеров\WinFormsApplication\ExtraTask\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+B:\учебный проект\для примеров\WinFormsApplication\ExtraTask\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+B:\учебный проект\для примеров\WinFormsApplication\ExtraTask\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+B:\учебный проект\для примеров\WinFormsApplication\ExtraTask\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+B:\учебный проект\для примеров\WinFormsApplication\ExtraTask\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+B:\учебный проект\для примеров\WinFormsApplication\ExtraTask\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+B:\учебный проект\для примеров\WinFormsApplication\ExtraTask\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+B:\учебный проект\для примеров\WinFormsApplication\ExtraTask\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+B:\учебный проект\для примеров\WinFormsApplication\ExtraTask\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+B:\учебный проект\для примеров\WinFormsApplication\ExtraTask\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+B:\учебный проект\для примеров\in GitHub\ExtraTask\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+B:\учебный проект\для примеров\in GitHub\ExtraTask\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+B:\учебный проект\для примеров\in GitHub\ExtraTask\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+B:\учебный проект\для примеров\in GitHub\ExtraTask\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+B:\учебный проект\для примеров\in GitHub\ExtraTask\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+B:\учебный проект\для примеров\in GitHub\ExtraTask\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+B:\учебный проект\для примеров\in GitHub\ExtraTask\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+B:\учебный проект\для примеров\in GitHub\ExtraTask\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+B:\учебный проект\для примеров\in GitHub\ExtraTask\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+B:\учебный проект\для примеров\in GitHub\ExtraTask\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

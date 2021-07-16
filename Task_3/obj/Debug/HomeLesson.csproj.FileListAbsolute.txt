@@ -1,0 +1,10 @@
+B:\учебный проект\для примеров\WinFormsApplication\HomeLesson\HomeLesson\bin\Debug\HomeLesson.exe.config
+B:\учебный проект\для примеров\WinFormsApplication\HomeLesson\HomeLesson\bin\Debug\HomeLesson.exe
+B:\учебный проект\для примеров\WinFormsApplication\HomeLesson\HomeLesson\bin\Debug\HomeLesson.pdb
+B:\учебный проект\для примеров\WinFormsApplication\HomeLesson\HomeLesson\obj\Debug\HomeLesson.csprojAssemblyReference.cache
+B:\учебный проект\для примеров\WinFormsApplication\HomeLesson\HomeLesson\obj\Debug\HomeLesson.Form1.resources
+B:\учебный проект\для примеров\WinFormsApplication\HomeLesson\HomeLesson\obj\Debug\HomeLesson.Properties.Resources.resources
+B:\учебный проект\для примеров\WinFormsApplication\HomeLesson\HomeLesson\obj\Debug\HomeLesson.csproj.GenerateResource.cache
+B:\учебный проект\для примеров\WinFormsApplication\HomeLesson\HomeLesson\obj\Debug\HomeLesson.csproj.CoreCompileInputs.cache
+B:\учебный проект\для примеров\WinFormsApplication\HomeLesson\HomeLesson\obj\Debug\HomeLesson.exe
+B:\учебный проект\для примеров\WinFormsApplication\HomeLesson\HomeLesson\obj\Debug\HomeLesson.pdb
